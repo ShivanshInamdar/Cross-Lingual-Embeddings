@@ -19,10 +19,17 @@ We apologise about the naming of the files.
 here's a short translation:
 
 baseline_en_fr.txt --- published baseline en->fr
+
 opposite_baseline.txt --- published baseline fr->en
+
 ext1_en_fr.txt --- extension 1 en->fr
+
 ext1testoutput_opposite.txt --- extension 1 fr->en
+
 no_dict_ext2_en_fr.txt --- extension 2 en->fr
+
 opposite_ext2.txt --- extension 2 fr->en
+
 ext3_en_fr.txt --- extension 3 en->fr
+
 ext3testoutput_opposite.txt --- extension 3 fr->en
